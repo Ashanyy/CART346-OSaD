@@ -1,9 +1,9 @@
 # CART346-OSaD
 
-- [Keynotes](./C01)
-- [Signals](./C02)
-- [10-second composition](./C03)
-- [Phase study](./C04)
+- [Keynotes—Record something you would normally ignore](./C01)
+- [Signals—Record something you can't ignore](./C02)
+- [10-second composition—One sourd, ten seconds](./C03)
+- [Phase study—Something that repeats but never sounds the same](./C04)
 
 ## One-Sound-a Day 
 

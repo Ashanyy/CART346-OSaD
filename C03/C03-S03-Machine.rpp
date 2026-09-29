@@ -1,0 +1,2198 @@
+<REAPER_PROJECT 0.1 "7.59/win64" 1790647350 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 128
+  ENVATTACH 2
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3454 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 11.19004840055934
+  ZOOM 71.0452691125323 0 0
+  VZOOMEX 6 70
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 3.17572352933018
+  SELECTION2 0 3.17572352933018
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {3C3011CA-6EA8-4E2C-BBBF-49406709FD51}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {F1D4CB06-FBE0-44C9-931A-A7B66238BCC8}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <KEYSIG
+    0 6 -1 0xAB5
+  >
+  <TRACK {8FEC9A89-FDE7-4BD3-B60A-433889F450C8}
+    NAME "water pump thing near lucas'"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8FEC9A89-FDE7-4BD3-B60A-433889F450C8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 18.5384
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABFC7262-E7F1-40BA-91C3-3E02F9DB659E}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F3EF4B0-B06D-49E3-A50D-03789F0E5365}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+  >
+  <TRACK {1881BA85-E710-4F41-851C-C2C972E3B9E0}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -0.824 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1881BA85-E710-4F41-851C-C2C972E3B9E0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {00D2169B-AA91-4B6E-94B5-407C0DA49CCF}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {078313DC-3F2E-49B6-8F71-77FB66068784}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 0.66072100274655
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDCF63E7-ED80-4D77-9849-279D06B7CCA0}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D478A8D3-659C-4B92-93AF-E2761924A7C8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1.19356052109054
+      SNAPOFFS 0
+      LENGTH 0.09235884984629
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A58072B-4869-4E5C-A1E1-86A2A3FF6296}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 2.40970509820901 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10F62635-CA7A-42DB-98CD-B27F6FFF2B03}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1.86849057761715
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE331075-DB04-4B93-BCAC-AA25816778C7}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B964FB02-9A48-4D77-BC07-318E6DF32E4D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2.7636609684775
+      SNAPOFFS 0
+      LENGTH 0.09235884984629
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E24C4B1A-5CB4-436F-9FCF-DBB3B2698CE6}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 2.40970509820901 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C30CC908-CD90-4A8E-A851-CB265AFFE6B4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.11178278713487
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2A5502D5-9709-4187-A5AA-1C84AE37C0FD}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {420BF482-7FAF-4E38-81E3-285FA4882E0E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.77250378986355
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51AE97DC-D541-4836-8073-7F7BF59FA4F7}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A40345A1-EB8E-4CC6-8F56-89F468617664}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4.3266568889532
+      SNAPOFFS 0
+      LENGTH 0.09235884984629
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {27D4495B-1275-40B8-B871-E11B785695FE}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 2.40970509820901 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3B58A99-FD46-4052-98EA-B4F02BAA2FF2}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.022900526179
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {098822E4-22D4-4218-884F-9403648F84F3}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60BE2CEC-B543-4463-B9F5-DF85F11DE429}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 7.19971260008294
+      SNAPOFFS 0
+      LENGTH 0.12113832631853
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3CF8F8C-1BC8-41C0-AC10-13421E0A0480}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.59632143218559
+      PLAYRATE 0.05829806260372 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47583C1E-A273-4648-A07B-092382EF0AA7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 9.14594363704905
+      SNAPOFFS 0
+      LENGTH 0.54512246843339
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 0.3432252579025 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {985ED49C-D25D-43BC-9E39-4CFA7BF2C8E7}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.59688524181533
+      PLAYRATE 0.01998790717842 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAD932B8-935F-4BEC-AE99-8DA6CF71393F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+  >
+  <TRACK {A78839F5-90BE-48D6-8CB1-4D0B8147438B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -0.504 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A78839F5-90BE-48D6-8CB1-4D0B8147438B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.24865844189386
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936736 0 1 0 0 0
+      FADEOUT 2 0.38246036538913 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {07E4DE03-E23A-4DE4-9E28-1C6C2407F68F}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173526 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90F0A164-CDFF-4868-8A67-93B15D44207C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 0.40162756634661
+      SNAPOFFS 0
+      LENGTH 0.15061033737998
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F108D1D5-ED51-4CE4-A7F0-4332FC51F116}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBA2650C-2F9A-4E0A-BAB8-14578D54EEBC}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1.56299592042342
+      SNAPOFFS 0
+      LENGTH 0.24865844189387
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936736 0 1 0 0 0
+      FADEOUT 2 0.24865844189387 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {DA8772A0-C038-4BCF-BABD-9EF2DEB30458}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173525 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24F9812A-84AF-44A4-9541-1D6E10F36BAD}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1.96462348679187
+      SNAPOFFS 0
+      LENGTH 0.15061033737998
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2C68C27B-3550-4F5F-A652-D300D68F5A26}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7A0F155-4A89-4752-91A6-3FB980DBC4D9}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.07626015262213
+      SNAPOFFS 0
+      LENGTH 0.24865844189386
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936736 0 1 0 0 0
+      FADEOUT 2 0.2415539149826 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {D9DA8804-1083-4956-8E6D-5C25546FBEA9}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173525 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BD283E5-A376-4B74-8991-0AB10C856F9F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.52206332869899
+      SNAPOFFS 0
+      LENGTH 0.15061033737998
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB20E10F-8E6B-444E-B840-75E3268230FD}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AF9F2F3-CEF2-4D18-9F4C-CFED8EB6BA97}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4.63925607304554
+      SNAPOFFS 0
+      LENGTH 0.24865844189387
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936736 0 1 0 0 0
+      FADEOUT 2 0.24155391498261 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {C37252B0-E836-4B77-8D00-AE5BA9B119CA}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173524 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22CE7D08-491F-4BAD-9674-AB4FB5076B63}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.09771985465453
+      SNAPOFFS 0
+      LENGTH 0.15061033737997
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90510784-91A2-4B4F-9F89-2F5C41BF3DC8}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E93561D3-4D99-4313-8B82-023FC3C4BAC9}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6.28909810803704
+      SNAPOFFS 0
+      LENGTH 0.24865844189387
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936736 0 1 0 0 0
+      FADEOUT 2 0.24155391498261 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {1FD48BC4-4DA0-4277-BAC3-03B5B174F8D9}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173525 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80CBF036-4C2B-4F57-BBE6-5E47C4D9F41B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6.62960704711543
+      SNAPOFFS 0
+      LENGTH 0.24865844189387
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936736 0 1 0 0 0
+      FADEOUT 2 0.24155391498261 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {55BE2B9C-635A-4252-95F4-79D2C19AEEB9}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173525 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66430AC1-F92F-42FD-81D1-FEAC9C36F83D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6.94021661199906
+      SNAPOFFS 0
+      LENGTH 0.24865844189387
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936736 0 1 0 0 0
+      FADEOUT 2 0.24155391498261 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {44162B36-6470-4272-AB40-8AA61E832D06}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173526 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A70433D5-EDBF-40ED-8A86-DE1C2B2724B3}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 7.81045166193886
+      SNAPOFFS 0
+      LENGTH 0.24865844189388
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936737 0 1 0 0 0
+      FADEOUT 2 0.24155391498262 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {E59E8769-DF84-4CB7-93FE-D5301CA47929}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173526 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AC102ED-9029-4230-9363-74C02EF0AF65}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 8.15096060105515
+      SNAPOFFS 0
+      LENGTH 0.24865844189386
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936736 0 1 0 0 0
+      FADEOUT 2 0.24155391498261 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {A39D5959-316E-4B71-A670-546B1247A6D2}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173526 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1F3BF9E-CB07-49B0-9E06-FD8FE9ABA651}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 8.46157016593878
+      SNAPOFFS 0
+      LENGTH 0.24865844189387
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.07199253936736 0 1 0 0 0
+      FADEOUT 2 0.2415539149826 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {B65ACA80-B6C1-4261-96D4-50A0F52C05C7}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.71796565246219
+      PLAYRATE 0.57327778173527 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97F87A4C-8DF3-4224-9445-811FEF678F7E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 9.01678749486091
+      SNAPOFFS 0
+      LENGTH 0.1261857565818
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {57D15C5A-596D-4F44-A26E-B9715FAE93F8}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.60064183392841
+      PLAYRATE 0.03909597735557 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {156EBD4E-BE6B-4E55-B558-1721E44435B5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+  >
+  <TRACK {D2056B72-8C8B-449A-9012-09C94C63AB18}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.67365116373859 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D2056B72-8C8B-449A-9012-09C94C63AB18}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.15419629779379
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09BB1855-BEC0-4C35-B37F-1DA410B46C60}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64C2881C-A148-4398-8E1E-1918D58DD734}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 0.60961327034754
+      SNAPOFFS 0
+      LENGTH 0.11775110208062
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {53868307-64DC-414F-BB6A-85F40B7DAFC0}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96CE1D83-41B7-49DA-8111-2488972A76D5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1.56299592047571
+      SNAPOFFS 0
+      LENGTH 0.15419629779379
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6228D89B-4C84-443F-82B4-3BEC59F4B2C9}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86C2C7F6-C065-4301-9616-042A8B16B5CC}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2.1726091908581
+      SNAPOFFS 0
+      LENGTH 0.11775110208062
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9293206-77A6-413E-B2C5-406DD40C4603}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7402B1CF-B2E7-4558-919E-CF3D5791AE53}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2.58604779569617
+      SNAPOFFS 0
+      LENGTH 0.14919747284429
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {88F8F44F-A76C-4136-B886-599B458E37AC}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A94B568-A5BB-4782-9ACA-4AEDD3A63007}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2.83044495637432
+      SNAPOFFS 0
+      LENGTH 0.06315007169891
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C7A1F32-5AF6-48A6-B79A-DE5F70588ED1}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F305EDB5-29A0-46CE-BE78-F351475513CE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2.89359502807324
+      SNAPOFFS 0
+      LENGTH 0.01946051362158
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87D4428C-0E41-4980-BC64-2DD8ABC25F6F}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.10201004459511
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F59EF89-4AA5-438F-9DC9-C4038C246573}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2.96037537291356
+      SNAPOFFS 0
+      LENGTH 0.06096132699608
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D73639E-BBF0-4C13-9371-3EBF1030B2E6}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85DF98D7-7734-482F-B200-46284C0ECDF4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.02133669990964
+      SNAPOFFS 0
+      LENGTH 0.02454810757788
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CBD58477-7C57-4D1F-8AF2-DB2E84AD9AED}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.11775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5458E52-A4B0-4D47-B064-AD59C4837E73}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.12043576238284
+      SNAPOFFS 0
+      LENGTH 0.15419629779379
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D29C4845-3245-4971-834E-C75DCF4DC70B}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E07D002-2128-4BEA-8D5D-1C1E4F0234B1}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.73004903276523
+      SNAPOFFS 0
+      LENGTH 0.11775110208061
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {291C9561-FC86-40DD-A3A3-9502EA2E8A8B}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {138BAC61-FC67-42DE-AEDE-7CFC31296B49}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4.69609228833837
+      SNAPOFFS 0
+      LENGTH 0.15419629779379
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {928F8896-E2F6-47EB-B7C7-896B6322703E}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9E001A2-4A8D-48C1-944B-46F59830DB9A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.30570555872077
+      SNAPOFFS 0
+      LENGTH 0.11775110208062
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2CBF910-E9DF-44C4-BB45-6C1C09267C32}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7771BD1C-854C-402B-A679-84877C8D56DB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.67651700209131
+      SNAPOFFS 0
+      LENGTH 0.1491974728443
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {282F4FEC-E111-49A4-A9CB-837D857FE82C}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A70077FB-1E7B-4E75-BAF7-418A6A47D071}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.92091416280487
+      SNAPOFFS 0
+      LENGTH 0.06315007169891
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1CAA55CD-D545-4B4D-B96F-7A77BE37454E}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25ACDA4E-6384-4026-A426-A2C9DCBF684E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.98406423446027
+      SNAPOFFS 0
+      LENGTH 0.01946051362158
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D291045A-E461-48B8-95F0-06C008FCE402}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.10201004459511
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CA00FA5-1447-41FF-8494-06BF0FA10776}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6.0508445792762
+      SNAPOFFS 0
+      LENGTH 0.06096132699608
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8AA223D4-6BB5-4C8F-94A2-6FEE2B9F6998}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.06658174538183
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DE58CA1-0BEB-4BC6-807C-C27957740B27}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6.11180590632608
+      SNAPOFFS 0
+      LENGTH 0.02454810757787
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2DA791C6-500E-49E0-8144-9E226DC3085B}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.11775110208062
+      PLAYRATE 1.00000000000025 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {350419CD-6582-4144-A8D7-8C094047D4CC}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 7.30066120534838
+      SNAPOFFS 0
+      LENGTH 0.11609089605525
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {858F6CA8-C79F-415F-BC52-DFC3EC64FCED}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.59483530279968
+      PLAYRATE 0.07646227868472 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {160163F4-2782-452B-8833-63E9EFF3AC3A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 8.91583888959547
+      SNAPOFFS 0
+      LENGTH 0.11609089605525
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {349E56CC-10FE-41F8-BB8F-0DED21B1374D}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.59483530279968
+      PLAYRATE 0.07646227868472 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FA1DC6B-65EB-41A7-9FF8-24C1200C64BE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+  >
+  <TRACK {0C7B5858-A046-4B57-8F6F-B8C375ABC147}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0.512 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0C7B5858-A046-4B57-8F6F-B8C375ABC147}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.31970371100639
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB26520E-AD98-4B02-A1F1-E3A2C6DEBBF8}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B44FE0E1-7C10-426E-BC07-0EE1393BA408}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1.5487868666532
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {24A11555-8F3C-48EF-9055-DCC5A3E3D17F}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B29C0044-B08E-4011-B3A3-C486E74E87CD}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2.216612396311
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {66C66847-F435-4679-94E0-9CE8495DB1BD}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D57F48BF-65A0-48F7-8896-2C12E1B8A8E0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.43148649809882
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0DC4221E-C480-4573-9E19-1CD89C5A95D2}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCD48A83-C4AD-425D-949C-5D8AB29A6CE7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4.70319681521505
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8AF3CA3C-88F0-46AC-A0E8-C4CE87C05472}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4D1C322-943A-4FA8-8828-67E7F57F4203}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.36391781794373
+      SNAPOFFS 0
+      LENGTH 0.12788148435796
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5022FCE-3183-4997-99E7-2F6167D0C4B3}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.03017935094114 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F93B0447-C02D-4FDA-9093-EC2E802825CB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 7.40160981061382
+      SNAPOFFS 0
+      LENGTH 0.1261857565818
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {280E0071-4C3A-4C5F-A99B-EDE9C77B78BC}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.60064183392841
+      PLAYRATE 0.03909597735557 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5526BBFB-152D-46B0-8807-612070B2A84E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 7.80453773317754
+      SNAPOFFS 0
+      LENGTH 0.18170748947779
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 0.15061033737997 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {BF185A87-5EBA-438E-8A22-D81453965EE6}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 2.929631 -1
+      SOFFS 1
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B99A33B-EB99-42CC-ACD0-C996777D7FF6}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 9.39534476464959
+      SNAPOFFS 0
+      LENGTH 0.17067738972078
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 0.56513303523977 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {225A1355-6407-45F5-8816-40DC62F07D1B}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 1 0 2.929631 -1
+      SOFFS 1
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75A836E1-98A4-4F04-A5AE-79564B14ADE3}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+  >
+  <TRACK {9A379613-6A67-4A51-AABA-1E8034C75586}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0.856 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9A379613-6A67-4A51-AABA-1E8034C75586}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.03552263455627
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56A53936-E93B-4683-A0CC-C487A51545E5}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {220C1CDD-403A-4D99-B0DE-86CDA91B34CF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 0.40495803393424
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F7F8152E-2097-4E5A-932C-28A8A928008E}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {201C64D4-A077-4416-B0B2-139FADDED6C9}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 0.80991606788287
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {686F1073-7F99-4423-B630-96D1D915D05A}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CCB323D-8272-4A6D-8374-FD6BA8BB8265}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1.20066504800179
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFA63B48-8166-44AE-9AAB-5350B577F34E}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46788C36-6015-40B4-ABD0-36628E0C4478}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1.59851855503197
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DB37B96-538B-4B08-A226-04E4A6FB6638}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB4F60D7-B272-4491-8514-814D108D7719}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1.96795395445346
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C4206AE-C08C-4262-833B-FA0DCE71551B}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4912ABA5-39E5-48F2-8218-AC477F757C89}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2.3729119883877
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08D9BC70-04DC-4B26-B288-9D684F60AF5E}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2A92877-9847-42DD-AECD-44F07121CAA4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2.76366096849355
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D5249C7F-3262-4BA1-9833-581D26F3576D}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C3FD0F1-54F0-481F-8177-9CB6D1046629}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.15440994859642
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {68E6C4A3-DAE2-4C33-AD7A-F9C84A9D3110}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7480A0D3-A340-4F63-9BCE-E434837F9005}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.5238453479015
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE7A81E7-7574-4441-BEC5-1CB4239AC888}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0091038-57C4-4E1B-837E-549C8FC3BE57}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.92880338183573
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {73C60BEA-FC0F-41C7-8572-C782F7409D24}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3367DF51-82AC-457D-9CB9-1B8D62A69B68}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4.31955236194159
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3141CE0B-D822-4B55-A8C8-6500F26B3684}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB1000AC-E12A-4C12-99DA-85EA41E4612E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4.71740586901984
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD39CAB2-BDCF-4800-BF1C-8448DE161EF8}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4F62835-0A04-4BAF-A035-BBFF7647710D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.08684126844133
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BBA092F0-0DA4-4888-8245-B6E21DCBBC29}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C624694-4BEB-444B-BADA-34C5E8799BC4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.49179930237557
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF1C682F-684C-41FD-90EE-1EC231AA0E20}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B71B91A-30B3-4036-840A-91AB866734B3}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.88254828248142
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9B0BF5A-020A-4392-ACAA-8E5AB07ABA7B}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23F3B66C-CB95-4584-B885-E7FF6835E99D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6.26386095672068
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {375AA666-9931-4ED9-936D-37DDB87F372D}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BD50544-BAE5-49E3-8798-1E6E53F47273}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6.63232336593954
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01834426438734 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D356738-EFBF-4CB8-9FDF-5D3CD3438D77}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F78A9F2A-BDF4-45CF-BD30-3559793E5C28}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 7.01592806594822
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D5FAB6D-3297-434A-80FC-7E449433FBFB}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {484DC43E-E342-430F-99F0-538E18C8F609}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 7.40962762648345
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {524EDAE8-973B-4698-BB88-E8C68F4B9799}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0A90D44-481F-4C2B-B284-1D2892344500}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 7.8003766065893
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2BFCFF3-25D1-495A-BEDA-1659F7CDF7B8}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {988CF2EB-7E48-40EC-B4AB-E1294C15FFAD}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 8.15159987518445
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {577D28FD-E665-44C9-90E7-3C54807AEB18}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91E4E373-CFAB-4672-A906-6E3E315DFCD5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 8.47968284229713
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C780CDF-987E-493C-BD0B-83A241783FD9}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A87CB61-1A7A-44BD-9E29-89DBFA6CE584}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 8.84309782125272
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F10F3255-746A-4D38-8240-48FF8D5EDDD5}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A8E6BF4-760E-496D-AD6A-04A3ED85FC82}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 9.16613335810214
+      SNAPOFFS 0
+      LENGTH 0.14209053822506
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39B9A39D-F92F-4163-BD37-03E7EC38E0CE}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CC12816-37D8-4B40-A942-A9DE84205A73}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+    <ITEM
+      POSITION 9.46099675248843
+      SNAPOFFS 0
+      LENGTH 0.54024684162503
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 0.57610644576312 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {3BF248EC-1ED7-4430-A352-92BCFD06D8D6}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.532258 0 1 -1
+      SOFFS 2.25775110208062
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31349492-4D20-4EF5-976F-316A79FC006B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+  >
+  <TRACK {8CBADB97-C62E-416A-9356-53FCA6B9A89C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8CBADB97-C62E-416A-9356-53FCA6B9A89C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 10.00124359411346
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 0.56299578496802 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {26E78285-F078-45B1-A429-31B7BDCBB407}
+      IID 1
+      NAME "water pump thing near lucas'.m4a"
+      VOLPAN 0.080645 0 1 -1
+      SOFFS 2.5998524970513
+      PLAYRATE 0.01631063220733 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8766B3C5-BE45-46FC-B304-F3A1054FB868}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\AshanyPc\Downloads\water pump thing near lucas'.m4a"
+      >
+    >
+  >
+>

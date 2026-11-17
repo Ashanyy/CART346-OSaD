@@ -11,7 +11,7 @@
 - [Make a score with synthesized](./C09)
 - [Make five sounds for your team’s piece and score one section of it](./C10)
 
-- [_It's gonna rain_ app](./IGR/ensemble/conductor.html)
+[_It's gonna rain_ app](./IGR/ensemble/conductor.html)
 
 ## One-Sound-a Day 
 

@@ -143,8 +143,8 @@ const SCORES = [
   }, 
     
   {
-  title: 'C09 · your title',
-  credit: 'Ashany Sithat',
+  title: 'C09 - Néant',
+  credit: 'by Ashany Sithat',
   groups: 5,
   events: [
     { at: '0:00', groups: 'D',   play: 'C09-S04-Chime_FAV', ratio: 1.0, level: 0.1, fade: 1 },
@@ -187,5 +187,15 @@ const SCORES = [
   end: '3:00'
 },
 
+  {
+  title: 'C10 - Beautiful Failure',
+  credit: 'by Ashany Sithat',
+  groups: 5,
+  events: [
+    { at: '0:00', groups: 'A',   play: 'C10', ratio: 1.0, level: 0.1, fade: 1 },
+   
+  ],
+  end: '3:00'
+},
   
 ];
